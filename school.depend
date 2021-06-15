@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1623765135 source:c:\users\stefu\desktop\final\school\main.cpp
+	"base.h"
+
+1623776219 c:\users\stefu\desktop\final\school\base.h
+	<iostream>
+	<fstream>
+	<windows.h>
+	<cstdlib>
+	<iomanip>
+	<conio.h>
+
+1623783403 source:c:\users\stefu\desktop\final\school\base.cpp
+	"base.h"
+
